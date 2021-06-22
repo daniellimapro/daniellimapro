@@ -1,5 +1,5 @@
 ![Daniel Lima](https://media-exp3.licdn.com/dms/image/C4D16AQGWLK2NuwwneQ/profile-displaybackgroundimage-shrink_350_1400/0/1608024849997?e=1629936000&v=beta&t=BBZiO7ZUv2t2deDC1eQfRolc-xXeMu6rEz10ZAOvLi0)
 
-### Um cara que cria interfaces para aplicações, desde a época em que isso daqui era tudo mato. :clown_face:
+# Um cara que cria interfaces para aplicações, desde a época em que isso daqui era tudo mato. :clown_face:
 
 [![LinkedIn](https://camo.githubusercontent.com/7ba86456479c3fc0c3ee2aae45f813598b355ffd7217301ef7559f2e0f3bff48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f76696e6e6963697573676f6d65732f)](https://www.linkedin.com/in/danieldeveloper/) [![Medium](https://camo.githubusercontent.com/6d541c069ad8ede9a89a852d77d765b6fa51a49e04a77ad678ee54ee20ee7049/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d656469756d2d3239323932393f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d323932393239266c6f676f3d4d656469756d266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f4076696e6e6963697573676f6d65732f)](https://medium.com/@daniellima.pro)
