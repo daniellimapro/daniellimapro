@@ -3,7 +3,6 @@
 # Um cara que cria interfaces para aplicações, desde a época em que isso daqui era tudo mato. :clown_face:
 
  <div>
-  <a href="https://github.com/daniellimapro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellimapro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellimapro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
