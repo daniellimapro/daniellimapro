@@ -1,4 +1,4 @@
-![Daniel Lima](https://media-exp3.licdn.com/dms/image/C4D16AQGWLK2NuwwneQ/profile-displaybackgroundimage-shrink_350_1400/0/1608024849997?e=1629936000&v=beta&t=BBZiO7ZUv2t2deDC1eQfRolc-xXeMu6rEz10ZAOvLi0)
+![Daniel Lima](https://media-exp1.licdn.com/dms/image/C4D16AQGWLK2NuwwneQ/profile-displaybackgroundimage-shrink_350_1400/0/1608024849997?e=1636588800&v=beta&t=6agLYdMbe89KFE8URJc5b56aZcG6YRu3m82MyooIvoY)
 
 # Um cara que cria interfaces para aplicações, desde a época em que isso daqui era tudo mato. :clown_face:
 
