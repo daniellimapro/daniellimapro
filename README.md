@@ -1,5 +1,3 @@
-![Daniel Lima](https://media-exp1.licdn.com/dms/image/C4D16AQGWLK2NuwwneQ/profile-displaybackgroundimage-shrink_200_800/0/1608024849997?e=1643241600&v=beta&t=OUvISa8zDGgjn8Ds8rb-1DM-x7cp-ZlBPlindDfig7w)
-
 # Um cara que cria interfaces para aplicações, desde a época em que isso daqui era tudo mato. :clown_face:
 
  <div>
